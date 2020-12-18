@@ -1,3 +1,4 @@
+Porcentaje: 100%
 Entender el problema, modularizar las funciones y hacer pruebas, asegurar correctitud, eficiencia, agregar funcionalidades con el paso del tiempo.
 Uso de listas en Python, expresiones generadoras, polimorfismo, uso instancias de tipos de datos, estar alerta (usando Python) a errores de tipo de datos, si bien un programa puede compilar, el tratamiento de los datos puede modificar y alterar las respuestas esperadas.
 Uso de gramáticas, interpretadores, compiladores, uso de funciones, hay diferentes tipos de búsqueda, por ejemplo, búsqueda del menor costo o del camino más corto.
