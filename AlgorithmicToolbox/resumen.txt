@@ -1,3 +1,5 @@
+Porcentaje: 50%
+
 La importancia de realizar pruebas exhaustivas al software, y de comparar la eficiencia de los mismos.
 Usar la notación Big-O para categorizar los tiempos estimados de ejecución de un programa con respecto a la cantidad de datos de entrada.
 Utilizar modelos matemáticos que simplifiquen los cálculos para reducir de forma drástica el tiempo de ejecución de un algoritmo.
